@@ -1,0 +1,45 @@
+body
+{
+
+}
+.head_div
+{
+    background-color: greenyellow;
+    padding: 0px;
+    border-radius: 100px;
+}
+.heading
+{
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+}
+.instructions
+{
+    float: right;
+    font-size: 30px;
+    margin-top: -80px;
+    margin-right: 100px;
+}
+.start_btn
+{
+    font-family: "Share Tech Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: whitesmoke;
+    background-color: red;
+    font-size: 50px;
+    border-radius: 80px;
+}
+#status
+{
+    font-family: "Share Tech Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 100px;
+    visibility: visible;
+    background-color: blue;
+    font-size: 50px;
+    width: 50%;
+}
